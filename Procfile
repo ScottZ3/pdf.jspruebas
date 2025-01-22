@@ -1,1 +1,1 @@
-web: npx gulp server
+web: npm start
